@@ -1,3 +1,5 @@
+import './style.css'
+
 const menuBtn = document.getElementById('open-btn')
 const closeBtn = document.getElementById('close-btn')
 const menu = document.getElementById('menu')
